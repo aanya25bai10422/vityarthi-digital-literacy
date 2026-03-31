@@ -1,6 +1,6 @@
 # vityarthi-digital-literacy-project
-Name -Aanya Soni
-Reg No.-25BAI10422
+## Name -Aanya Soni
+## Reg No.-25BAI10422
 
 ## Project Overview
 This project focuses on building essential digital literacy skills required for students in today’s academic and professional environment. It’s objective is to understand, apply, and promote responsible and effective use of digital tools and platforms.
@@ -24,5 +24,5 @@ This task helped me understand the importance of clear and professional communic
 ## Task 5 – Summary (Cybercrime Awareness)
 While working on this task, I realized that many cybercrimes happen due to simple mistakes like sharing OTPs or trusting unknown links. Awareness and caution are more important than technical knowledge. I learned to be more careful with online transactions and messages, especially related to UPI, making me a more responsible digital user.
 
-Links
+## Links
  https://docs.google.com/forms/d/e/1FAIpQLSdeFo-IfCNw7EZaz1Xq62CdHaf35ivFTmTFLnAP_W-GrN0aaQ/viewform?usp=dialog
