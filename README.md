@@ -1,6 +1,6 @@
 # vityarthi-digital-literacy-project
-## Name -Aanya Soni
-## Reg No.-25BAI10422
+ Name -Aanya Soni
+ Reg No.-25BAI10422
 
 ## Project Overview
 This project focuses on building essential digital literacy skills required for students in today’s academic and professional environment. It’s objective is to understand, apply, and promote responsible and effective use of digital tools and platforms.
@@ -8,7 +8,7 @@ The project is divided into five modules, each covering a key aspect of digital 
 Further, it emphasizes professional communication through drafting formal emails and understanding email etiquette, along with responsible social media usage. Finally, the project explores cybercrime awareness by analysing a real or realistic case study and creating a prevention checklist to promote safe online practices.
 Overall, this project combines creativity, technical skills, and critical awareness to help students become confident, responsible, and professional digital citizens.
 
-Module Summaries
+### Module Summaries
 ## Task 1 – Summary (Digital Literacy Infographic)
 I used Canva to create an infographic explaining digital literacy, safe internet practices, and email etiquette. The design focused on clear and simple communication using visuals and short points. I included tips like using strong passwords, avoiding suspicious links, and writing professional emails. The main challenge was balancing text and design, but overall it helped me understand how visuals improve communication.
 
