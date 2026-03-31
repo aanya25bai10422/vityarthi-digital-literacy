@@ -1,6 +1,6 @@
 # vityarthi-digital-literacy-project
- Name -Aanya Soni
- Reg No.-25BAI10422
+### Name -Aanya Soni
+ ### Reg No.-25BAI10422
 
 ## Project Overview
 This project focuses on building essential digital literacy skills required for students in today’s academic and professional environment. It’s objective is to understand, apply, and promote responsible and effective use of digital tools and platforms.
